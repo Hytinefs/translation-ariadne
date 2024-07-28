@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://hytinefs.github.io/translation/ariadne'
-baseurl:          '/jekyll-gitbook'
+url:              'https://hytinefs.github.io'
+baseurl:          '/translation/ariadne'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
