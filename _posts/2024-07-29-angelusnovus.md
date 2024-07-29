@@ -67,4 +67,5 @@ layout: post
 [^3]: The Departure
  I ORDERED my horse to be brought from the stables. The servant did not understand my orders. So I went to the stables myself, saddled my horse, and mounted. In the distance I heard the sound of a trumpet, and I asked the servant what it meant. He knew nothing and had heard nothing. At the gate he stopped me and asked: "Where is the master going?" "I don't know," I said, "just out of here, just out of here. Out of here, nothing else, it's the only way I can reach my goal." "So you know your goal?" he asked. "Yes," I replied, "I've just told you. Out of here-that's my goal."
  Translated by Tania and James Stern
+ 
 [^4]: [In Memoriam: Professor Keith Tester (1960-2019)](https://baumaninstitute.leeds.ac.uk/news/in-memoriam-professor-keith-tester-1960-2019/)
