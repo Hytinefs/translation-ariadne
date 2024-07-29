@@ -1,10 +1,10 @@
 # Configurations
-title:            The Future Lasts A Long Time
+title:            来日方长
 longtitle:        The Future Lasts A Long Time
 author:           Yutong Huang
 email:            2100011361@stu.pku.edu.cn
 description: >
-  Build Jekyll site with the GitBook style.
+  The Future Lasts A Long Time.
 
 version:          1.0
 gitbook_version:  3.2.3
