@@ -48,4 +48,4 @@ layout: post
 [3]: https://en.wikipedia.org/wiki/Walter_Benjamin
 [4]: https://en.wikipedia.org/wiki/Zygmunt_Bauman
 [5]: https://en.wikipedia.org/wiki/Svetlana_Boym
-[^6]: [怀旧的未来](https://weread.qq.com/web/bookDetail/02a328305dd66a02adc380c)
+[^6]: [_The Future of Nostalgia_, 微信读书《怀旧的未来》](https://weread.qq.com/web/bookDetail/02a328305dd66a02adc380c)
