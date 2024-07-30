@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/03b8b447-6dac-4e81-9db7-9bf219a9e85b)---
+---
 layout: home
 title: 来日方长
 permalink: /
